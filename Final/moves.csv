@@ -1,0 +1,796 @@
+Pound,Normal,35,40,100%
+Karate Chop*,Fighting,25,50,100%
+Double Slap,Normal,10,15,85%
+Comet Punch,Normal,15,18,85%
+Mega Punch,Normal,20,80,85%
+Pay Day,Normal,20,40,100%
+Fire Punch,Fire,15,75,100%
+Ice Punch,Ice,15,75,100%
+Thunder Punch,Electric,15,75,100%
+Scratch,Normal,35,40,100%
+Vise Grip,Normal,30,55,100%
+Guillotine,Normal,5,—,30%
+Razor Wind,Normal,10,80,100%*
+Swords Dance,Normal,20*,—,—
+Cut,Normal,30,50,95%
+Gust*,Flying,35,40,100%
+Wing Attack,Flying,35,60*,100%
+Whirlwind,Normal,20,—,—*
+Fly,Flying,15,90*,95%
+Bind,Normal,20,15,85%*
+Slam,Normal,20,80,75%
+Vine Whip,Grass,25*,45*,100%
+Stomp,Normal,20,65,100%
+Double Kick,Fighting,30,30,100%
+Mega Kick,Normal,5,120,75%
+Jump Kick,Fighting,10*,100*,95%
+Rolling Kick,Fighting,15,60,85%
+Sand Attack*,Ground,15,—,100%
+Headbutt,Normal,15,70,100%
+Horn Attack,Normal,25,65,100%
+Fury Attack,Normal,20,15,85%
+Horn Drill,Normal,5,—,30%
+Tackle,Normal,35,40*,100%*
+Body Slam,Normal,15,85,100%
+Wrap,Normal,20,15,90%*
+Take Down,Normal,20,90,85%
+Thrash,Normal,10*,120*,100%
+Double-Edge,Normal,15,120*,100%
+Tail Whip,Normal,30,—,100%
+Poison Sting,Poison,35,15,100%
+Twineedle,Bug,20,25,100%
+Pin Missile,Bug,20,25*,95%*
+Leer,Normal,30,—,100%
+Bite*,Dark,25,60,100%
+Growl,Normal,40,—,100%
+Roar,Normal,20,—,—*
+Sing,Normal,15,—,55%
+Supersonic,Normal,20,—,55%
+Sonic Boom,Normal,20,*,90%
+Disable,Normal,20,—,100%*
+Acid,Poison,30,40,100%
+Ember,Fire,25,40,100%
+Flamethrower,Fire,15,90*,100%
+Mist,Ice,30,—,—
+Water Gun,Water,25,40,100%
+Hydro Pump,Water,5,110*,80%
+Surf,Water,15,90*,100%
+Ice Beam,Ice,10,90*,100%
+Blizzard,Ice,5,110*,70%*
+Psybeam,Psychic,20,65,100%
+Bubble Beam,Water,20,65,100%
+Aurora Beam,Ice,20,65,100%
+Hyper Beam,Normal,5,150,90%
+Peck,Flying,35,35,100%
+Drill Peck,Flying,20,80,100%
+Submission,Fighting,20*,80,80%
+Low Kick,Fighting,20,—*,100%*
+Counter,Fighting,20,—,100%
+Seismic Toss,Fighting,20,—,100%
+Strength,Normal,15,80,100%
+Absorb,Grass,25*,20*,100%
+Mega Drain,Grass,15*,40*,100%
+Leech Seed,Grass,10,—,90%
+Growth,Normal,20*,—,—
+Razor Leaf,Grass,25,55,95%
+Solar Beam,Grass,10,120*,100%
+Poison Powder,Poison,35,—,75%
+Stun Spore,Grass,30,—,75%
+Sleep Powder,Grass,15,—,75%
+Petal Dance,Grass,10*,120*,100%
+String Shot,Bug,40,—,95%
+Dragon Rage,Dragon,10,*,100%
+Fire Spin,Fire,15,35*,85%*
+Thunder Shock,Electric,30,40,100%
+Thunderbolt,Electric,15,90*,100%
+Thunder Wave,Electric,20,—,90%*
+Thunder,Electric,10,110*,70%
+Rock Throw,Rock,15,50,90%*
+Earthquake,Ground,10,100,100%
+Fissure,Ground,5,—,30%
+Dig,Ground,10,80*,100%
+Toxic,Poison,10,—,90%*
+Confusion,Psychic,25,50,100%
+Psychic,Psychic,10,90,100%
+Hypnosis,Psychic,20,—,60%*
+Meditate,Psychic,40,—,—
+Agility,Psychic,30,—,—
+Quick Attack,Normal,30,40,100%
+Rage,Normal,20,20,100%
+Teleport,Psychic,20,—,—
+Night Shade,Ghost,15,—,100%
+Mimic,Normal,10,—,—*
+Screech,Normal,40,—,85%
+Double Team,Normal,15,—,—
+Recover,Normal,10*,—,—
+Harden,Normal,30,—,—
+Minimize,Normal,10*,—,—
+Smokescreen,Normal,20,—,100%
+Confuse Ray,Ghost,10,—,100%
+Withdraw,Water,40,—,—
+Defense Curl,Normal,40,—,—
+Barrier,Psychic,20*,—,—
+Light Screen,Psychic,30,—,—
+Haze,Ice,30,—,—
+Reflect,Psychic,20,—,—
+Focus Energy,Normal,30,—,—
+Bide,Normal,10,—,—*
+Metronome,Normal,10,—,—
+Mirror Move,Flying,20,—,—
+Self-Destruct,Normal,5,200*,100%
+Egg Bomb,Normal,10,100,75%
+Lick,Ghost,30,30*,100%
+Smog,Poison,20,30*,70%
+Sludge,Poison,20,65,100%
+Bone Club,Ground,20,65,85%
+Fire Blast,Fire,5,110*,85%
+Waterfall,Water,15,80,100%
+Clamp,Water,15*,35,85%*
+Swift,Normal,20,60,—
+Skull Bash,Normal,10*,130*,100%
+Spike Cannon,Normal,15,20,100%
+Constrict,Normal,35,10,100%
+Amnesia,Psychic,20,—,—
+Kinesis,Psychic,15,—,80%
+Soft-Boiled,Normal,10,—,—
+High Jump Kick,Fighting,10*,130*,90%
+Glare,Normal,30,—,100%*
+Dream Eater,Psychic,15,100,100%
+Poison Gas,Poison,40,—,90%*
+Barrage,Normal,20,15,85%
+Leech Life,Bug,10*,80*,100%
+Lovely Kiss,Normal,10,—,75%
+Sky Attack,Flying,5,140*,90%
+Transform,Normal,10,—,—
+Bubble,Water,30,40*,100%
+Dizzy Punch,Normal,10,70,100%
+Spore,Grass,15,—,100%
+Flash,Normal,20,—,100%*
+Psywave,Psychic,15,—,100%*
+Splash,Normal,40,—,—
+Acid Armor,Poison,20*,—,—
+Crabhammer,Water,10,100*,90%*
+Explosion,Normal,5,250*,100%
+Fury Swipes,Normal,15,18,80%
+Bonemerang,Ground,10,50,90%
+Rest,Psychic,10,—,—
+Rock Slide,Rock,10,75,90%
+Hyper Fang,Normal,15,80,90%
+Sharpen,Normal,30,—,—
+Conversion,Normal,30,—,—
+Tri Attack,Normal,10,80,100%
+Super Fang,Normal,10,—,90%
+Slash,Normal,20,70,100%
+Substitute,Normal,10,—,—
+Struggle,Normal,1*,50,—*
+Sketch,Normal,1,—,—
+Triple Kick,Fighting,10,10,90%
+Thief,Dark,25*,60*,100%
+Spider Web,Bug,10,—,—
+Mind Reader,Normal,5,—,—*
+Nightmare,Ghost,15,—,100%
+Flame Wheel,Fire,25,60,100%
+Snore,Normal,15,50*,100%
+Curse*,Ghost,10,—,—
+Flail,Normal,15,—,100%
+Conversion 2,Normal,30,—,—
+Aeroblast,Flying,5,100,95%
+Cotton Spore,Grass,40,—,100%*
+Reversal,Fighting,15,—,100%
+Spite,Ghost,10,—,100%
+Powder Snow,Ice,25,40,100%
+Protect,Normal,10,—,—
+Mach Punch,Fighting,30,40,100%
+Scary Face,Normal,10,—,100%*
+Feint Attack,Dark,20,60,—
+Sweet Kiss*,Fairy,10,—,75%
+Belly Drum,Normal,10,—,—
+Sludge Bomb,Poison,10,90,100%
+Mud-Slap,Ground,10,20,100%
+Octazooka,Water,10,65,85%
+Spikes,Ground,20,—,—
+Zap Cannon,Electric,5,120*,50%
+Foresight,Normal,40,—,—*
+Destiny Bond,Ghost,5,—,—
+Perish Song,Normal,5,—,—
+Icy Wind,Ice,15,55,95%
+Detect,Fighting,5,—,—
+Bone Rush,Ground,10,25,90%*
+Lock-On,Normal,5,—,—*
+Outrage,Dragon,10*,120*,100%
+Sandstorm,Rock,10,—,—
+Giga Drain,Grass,10*,75*,100%
+Endure,Normal,10,—,—
+Charm*,Fairy,20,—,100%
+Rollout,Rock,20,30,90%
+False Swipe,Normal,40,40,100%
+Swagger,Normal,15,—,85%*
+Milk Drink,Normal,10,—,—
+Spark,Electric,20,65,100%
+Fury Cutter,Bug,20,40*,95%
+Steel Wing,Steel,25,70,90%
+Mean Look,Normal,5,—,—
+Attract,Normal,15,—,100%
+Sleep Talk,Normal,10,—,—
+Heal Bell,Normal,5,—,—
+Return,Normal,20,—,100%
+Present,Normal,15,—,90%
+Frustration,Normal,20,—,100%
+Safeguard,Normal,25,—,—
+Pain Split,Normal,20,—,—*
+Sacred Fire,Fire,5,100,95%
+Magnitude,Ground,30,—,100%
+Dynamic Punch,Fighting,5,100,50%
+Megahorn,Bug,10,120,85%
+Dragon Breath,Dragon,20,60,100%
+Baton Pass,Normal,40,—,—
+Encore,Normal,5,—,100%
+Pursuit,Dark,20,40,100%
+Rapid Spin,Normal,40,50*,100%
+Sweet Scent,Normal,20,—,100%
+Iron Tail,Steel,15,100,75%
+Metal Claw,Steel,35,50,95%
+Vital Throw,Fighting,10,70,—
+Morning Sun,Normal,5,—,—
+Synthesis,Grass,5,—,—
+Moonlight*,Fairy,5,—,—
+Hidden Power,Normal,15,60*,100%
+Cross Chop,Fighting,5,100,80%
+Twister,Dragon,20,40,100%
+Rain Dance,Water,5,—,—
+Sunny Day,Fire,5,—,—
+Crunch,Dark,15,80,100%
+Mirror Coat,Psychic,20,—,100%
+Psych Up,Normal,10,—,—
+Extreme Speed,Normal,5,80,100%
+Ancient Power,Rock,5,60,100%
+Shadow Ball,Ghost,15,80,100%
+Future Sight,Psychic,10*,120*,100%*
+Rock Smash,Fighting,15,40*,100%
+Whirlpool,Water,15,35*,85%*
+Beat Up,Dark,10,—*,100%
+Fake Out,Normal,10,40,100%
+Uproar,Normal,10,90*,100%
+Stockpile,Normal,20*,—,—
+Spit Up,Normal,10,—,100%
+Swallow,Normal,10,—,—
+Heat Wave,Fire,10,95*,90%
+Hail,Ice,10,—,—
+Torment,Dark,15,—,100%
+Flatter,Dark,15,—,100%
+Will-O-Wisp,Fire,15,—,85%*
+Memento,Dark,10,—,100%
+Facade,Normal,20,70,100%
+Focus Punch,Fighting,20,150,100%
+Smelling Salts,Normal,10,70*,100%
+Follow Me,Normal,20,—,—
+Nature Power,Normal,20,—,—
+Charge,Electric,20,—,—
+Taunt,Dark,20,—,100%
+Helping Hand,Normal,20,—,—
+Trick,Psychic,10,—,100%
+Role Play,Psychic,10,—,—
+Wish,Normal,10,—,—
+Assist,Normal,20,—,—
+Ingrain,Grass,20,—,—
+Superpower,Fighting,5,120,100%
+Magic Coat,Psychic,15,—,—
+Recycle,Normal,10,—,—
+Revenge,Fighting,10,60,100%
+Brick Break,Fighting,15,75,100%
+Yawn,Normal,10,—,—
+Knock Off,Dark,20,65*,100%
+Endeavor,Normal,5,—,100%
+Eruption,Fire,5,150,100%
+Skill Swap,Psychic,10,—,—
+Imprison,Psychic,10,—,—
+Refresh,Normal,20,—,—
+Grudge,Ghost,5,—,—
+Snatch,Dark,10,—,—
+Secret Power,Normal,20,70,100%
+Dive,Water,10,80*,100%
+Arm Thrust,Fighting,20,15,100%
+Camouflage,Normal,20,—,—
+Tail Glow,Bug,20,—,—
+Luster Purge,Psychic,5,70,100%
+Mist Ball,Psychic,5,70,100%
+Feather Dance,Flying,15,—,100%
+Teeter Dance,Normal,20,—,100%
+Blaze Kick,Fire,10,85,90%
+Mud Sport,Ground,15,—,—
+Ice Ball,Ice,20,30,90%
+Needle Arm,Grass,15,60,100%
+Slack Off,Normal,10,—,—
+Hyper Voice,Normal,10,90,100%
+Poison Fang,Poison,15,50,100%
+Crush Claw,Normal,10,75,95%
+Blast Burn,Fire,5,150,90%
+Hydro Cannon,Water,5,150,90%
+Meteor Mash,Steel,10,90*,90%*
+Astonish,Ghost,15,30,100%
+Weather Ball,Normal,10,50,100%
+Aromatherapy,Grass,5,—,—
+Fake Tears,Dark,20,—,100%
+Air Cutter,Flying,25,60*,95%
+Overheat,Fire,5,130*,90%
+Odor Sleuth,Normal,40,—,—*
+Rock Tomb,Rock,15*,60*,95%*
+Silver Wind,Bug,5,60,100%
+Metal Sound,Steel,40,—,85%
+Grass Whistle,Grass,15,—,55%
+Tickle,Normal,20,—,100%
+Cosmic Power,Psychic,20,—,—
+Water Spout,Water,5,150,100%
+Signal Beam,Bug,15,75,100%
+Shadow Punch,Ghost,20,60,—
+Extrasensory,Psychic,20*,80,100%
+Sky Uppercut,Fighting,15,85,90%
+Sand Tomb,Ground,15,35*,85%*
+Sheer Cold,Ice,5,—,30%
+Muddy Water,Water,10,90*,85%
+Bullet Seed,Grass,30,25*,100%
+Aerial Ace,Flying,20,60,—
+Icicle Spear,Ice,30,25*,100%
+Iron Defense,Steel,15,—,—
+Block,Normal,5,—,—
+Howl,Normal,40,—,—
+Dragon Claw,Dragon,15,80,100%
+Frenzy Plant,Grass,5,150,90%
+Bulk Up,Fighting,20,—,—
+Bounce,Flying,5,85,85%
+Mud Shot,Ground,15,55,95%
+Poison Tail,Poison,25,50,100%
+Covet,Normal,25*,60*,100%
+Volt Tackle,Electric,15,120,100%
+Magical Leaf,Grass,20,60,—
+Water Sport,Water,15,—,—
+Calm Mind,Psychic,20,—,—
+Leaf Blade,Grass,15,90*,100%
+Dragon Dance,Dragon,20,—,—
+Rock Blast,Rock,10,25,90%*
+Shock Wave,Electric,20,60,—
+Water Pulse,Water,20,60,100%
+Doom Desire,Steel,5,140*,100%*
+Psycho Boost,Psychic,5,140,90%
+Roost,Flying,10,—,—
+Gravity,Psychic,5,—,—
+Miracle Eye,Psychic,40,—,—
+Wake-Up Slap,Fighting,10,70*,100%
+Hammer Arm,Fighting,10,100,90%
+Gyro Ball,Steel,5,—,100%
+Healing Wish,Psychic,10,—,—
+Brine,Water,10,65,100%
+Natural Gift,Normal,15,—,100%
+Feint,Normal,10,30*,100%
+Pluck,Flying,20,60,100%
+Tailwind,Flying,15*,—,—
+Acupressure,Normal,30,—,—
+Metal Burst,Steel,10,—,100%
+U-turn,Bug,20,70,100%
+Close Combat,Fighting,5,120,100%
+Payback,Dark,10,50,100%
+Assurance,Dark,10,60*,100%
+Embargo,Dark,15,—,100%
+Fling,Dark,10,—,100%
+Psycho Shift,Psychic,10,—,100%*
+Trump Card,Normal,5,—,—
+Heal Block,Psychic,15,—,100%
+Wring Out,Normal,5,—,100%
+Power Trick,Psychic,10,—,—
+Gastro Acid,Poison,10,—,100%
+Lucky Chant,Normal,30,—,—
+Me First,Normal,20,—,—
+Copycat,Normal,20,—,—
+Power Swap,Psychic,10,—,—
+Guard Swap,Psychic,10,—,—
+Punishment,Dark,5,—,100%
+Last Resort,Normal,5,140*,100%
+Worry Seed,Grass,10,—,100%
+Sucker Punch,Dark,5,70*,100%
+Toxic Spikes,Poison,20,—,—
+Heart Swap,Psychic,10,—,—
+Aqua Ring,Water,20,—,—
+Magnet Rise,Electric,10,—,—
+Flare Blitz,Fire,15,120,100%
+Force Palm,Fighting,10,60,100%
+Aura Sphere,Fighting,20,80*,—
+Rock Polish,Rock,20,—,—
+Poison Jab,Poison,20,80,100%
+Dark Pulse,Dark,15,80,100%
+Night Slash,Dark,15,70,100%
+Aqua Tail,Water,10,90,90%
+Seed Bomb,Grass,15,80,100%
+Air Slash,Flying,15*,75,95%
+X-Scissor,Bug,15,80,100%
+Bug Buzz,Bug,10,90,100%
+Dragon Pulse,Dragon,10,85*,100%
+Dragon Rush,Dragon,10,100,75%
+Power Gem,Rock,20,80*,100%
+Drain Punch,Fighting,10*,75*,100%
+Vacuum Wave,Fighting,30,40,100%
+Focus Blast,Fighting,5,120,70%
+Energy Ball,Grass,10,90*,100%
+Brave Bird,Flying,15,120,100%
+Earth Power,Ground,10,90,100%
+Switcheroo,Dark,10,—,100%
+Giga Impact,Normal,5,150,90%
+Nasty Plot,Dark,20,—,—
+Bullet Punch,Steel,30,40,100%
+Avalanche,Ice,10,60,100%
+Ice Shard,Ice,30,40,100%
+Shadow Claw,Ghost,15,70,100%
+Thunder Fang,Electric,15,65,95%
+Ice Fang,Ice,15,65,95%
+Fire Fang,Fire,15,65,95%
+Shadow Sneak,Ghost,30,40,100%
+Mud Bomb,Ground,10,65,85%
+Psycho Cut,Psychic,20,70,100%
+Zen Headbutt,Psychic,15,80,90%
+Mirror Shot,Steel,10,65,85%
+Flash Cannon,Steel,10,80,100%
+Rock Climb,Normal,20,90,85%
+Defog,Flying,15,—,—
+Trick Room,Psychic,5,—,—
+Draco Meteor,Dragon,5,130*,90%
+Discharge,Electric,15,80,100%
+Lava Plume,Fire,15,80,100%
+Leaf Storm,Grass,5,130*,90%
+Power Whip,Grass,10,120,85%
+Rock Wrecker,Rock,5,150,90%
+Cross Poison,Poison,20,70,100%
+Gunk Shot,Poison,5,120,80%*
+Iron Head,Steel,15,80,100%
+Magnet Bomb,Steel,20,60,—
+Stone Edge,Rock,5,100,80%
+Captivate,Normal,20,—,100%
+Stealth Rock,Rock,20,—,—
+Grass Knot,Grass,20,—,100%
+Chatter,Flying,20,65*,100%
+Judgment,Normal,10,100,100%
+Bug Bite,Bug,20,60,100%
+Charge Beam,Electric,10,50,90%
+Wood Hammer,Grass,15,120,100%
+Aqua Jet,Water,20,40,100%
+Attack Order,Bug,15,90,100%
+Defend Order,Bug,10,—,—
+Heal Order,Bug,10,—,—
+Head Smash,Rock,5,150,80%
+Double Hit,Normal,10,35,90%
+Roar of Time,Dragon,5,150,90%
+Spacial Rend,Dragon,5,100,95%
+Lunar Dance,Psychic,10,—,—
+Crush Grip,Normal,5,—,100%
+Magma Storm,Fire,5,100*,75%*
+Dark Void,Dark,10,—,50%*
+Seed Flare,Grass,5,120,85%
+Ominous Wind,Ghost,5,60,100%
+Shadow Force,Ghost,5,120,100%
+Hone Claws,Dark,15,—,—
+Wide Guard,Rock,10,—,—
+Guard Split,Psychic,10,—,—
+Power Split,Psychic,10,—,—
+Wonder Room,Psychic,10,—,—
+Psyshock,Psychic,10,80,100%
+Venoshock,Poison,10,65,100%
+Autotomize,Steel,15,—,—
+Rage Powder,Bug,20,—,—
+Telekinesis,Psychic,15,—,—
+Magic Room,Psychic,10,—,—
+Smack Down,Rock,15,50,100%
+Storm Throw,Fighting,10,60*,100%
+Flame Burst,Fire,15,70,100%
+Sludge Wave,Poison,10,95,100%
+Quiver Dance,Bug,20,—,—
+Heavy Slam,Steel,10,—,100%
+Synchronoise,Psychic,10*,120*,100%
+Electro Ball,Electric,10,—,100%
+Soak,Water,20,—,100%
+Flame Charge,Fire,20,50,100%
+Coil,Poison,20,—,—
+Low Sweep,Fighting,20,65*,100%
+Acid Spray,Poison,20,40,100%
+Foul Play,Dark,15,95,100%
+Simple Beam,Normal,15,—,100%
+Entrainment,Normal,15,—,100%
+After You,Normal,15,—,—
+Round,Normal,15,60,100%
+Echoed Voice,Normal,15,40,100%
+Chip Away,Normal,20,70,100%
+Clear Smog,Poison,15,50,—
+Stored Power,Psychic,10,20,100%
+Quick Guard,Fighting,15,—,—
+Ally Switch,Psychic,15,—,—
+Scald,Water,15,80,100%
+Shell Smash,Normal,15,—,—
+Heal Pulse,Psychic,10,—,—
+Hex,Ghost,10,65*,100%
+Sky Drop,Flying,10,60,100%
+Shift Gear,Steel,10,—,—
+Circle Throw,Fighting,10,60,90%
+Incinerate,Fire,15,60*,100%
+Quash,Dark,15,—,100%
+Acrobatics,Flying,15,55,100%
+Reflect Type,Normal,15,—,—
+Retaliate,Normal,5,70,100%
+Final Gambit,Fighting,5,—,100%
+Bestow,Normal,15,—,—
+Inferno,Fire,5,100,50%
+Water Pledge,Water,10,80*,100%
+Fire Pledge,Fire,10,80*,100%
+Grass Pledge,Grass,10,80*,100%
+Volt Switch,Electric,20,70,100%
+Struggle Bug,Bug,20,50*,100%
+Bulldoze,Ground,20,60,100%
+Frost Breath,Ice,10,60*,90%
+Dragon Tail,Dragon,10,60,90%
+Work Up,Normal,30,—,—
+Electroweb,Electric,15,55,95%
+Wild Charge,Electric,15,90,100%
+Drill Run,Ground,10,80,95%
+Dual Chop,Dragon,15,40,90%
+Heart Stamp,Psychic,25,60,100%
+Horn Leech,Grass,10,75,100%
+Sacred Sword,Fighting,15*,90,100%
+Razor Shell,Water,10,75,95%
+Heat Crash,Fire,10,—,100%
+Leaf Tornado,Grass,10,65,90%
+Steamroller,Bug,20,65,100%
+Cotton Guard,Grass,10,—,—
+Night Daze,Dark,10,85,95%
+Psystrike,Psychic,10,100,100%
+Tail Slap,Normal,10,25,85%
+Hurricane,Flying,10,110*,70%
+Head Charge,Normal,15,120,100%
+Gear Grind,Steel,15,50,85%
+Searing Shot,Fire,5,100,100%
+Techno Blast,Normal,5,120*,100%
+Relic Song,Normal,10,75,100%
+Secret Sword,Fighting,10,85,100%
+Glaciate,Ice,10,65,95%
+Bolt Strike,Electric,5,130,85%
+Blue Flare,Fire,5,130,85%
+Fiery Dance,Fire,10,80,100%
+Freeze Shock,Ice,5,140,90%
+Ice Burn,Ice,5,140,90%
+Snarl,Dark,15,55,95%
+Icicle Crash,Ice,10,85,90%
+V-create,Fire,5,180,95%
+Fusion Flare,Fire,5,100,100%
+Fusion Bolt,Electric,5,100,100%
+Flying Press,Fighting,10,100*,95%
+Mat Block,Fighting,10,—,—
+Belch,Poison,10,120,90%
+Rototiller,Ground,10,—,—
+Sticky Web,Bug,20,—,—
+Fell Stinger,Bug,25,50*,100%
+Phantom Force,Ghost,10,90,100%
+Trick-or-Treat,Ghost,20,—,100%
+Noble Roar,Normal,30,—,100%
+Ion Deluge,Electric,25,—,—
+Parabolic Charge,Electric,20,65*,100%
+Forest's Curse,Grass,20,—,100%
+Petal Blizzard,Grass,15,90,100%
+Freeze-Dry,Ice,20,70,100%
+Disarming Voice,Fairy,15,40,—
+Parting Shot,Dark,20,—,100%
+Topsy-Turvy,Dark,20,—,—*
+Draining Kiss,Fairy,10,50,100%
+Crafty Shield,Fairy,10,—,—
+Flower Shield,Fairy,10,—,—
+Grassy Terrain,Grass,10,—,—
+Misty Terrain,Fairy,10,—,—
+Electrify,Electric,20,—,—
+Play Rough,Fairy,10,90,90%
+Fairy Wind,Fairy,30,40,100%
+Moonblast,Fairy,15,95,100%
+Boomburst,Normal,10,140,100%
+Fairy Lock,Fairy,10,—,—
+King's Shield,Steel,10,—,—
+Play Nice,Normal,20,—,—
+Confide,Normal,20,—,—
+Diamond Storm,Rock,5,100,95%
+Steam Eruption,Water,5,110,95%
+Hyperspace Hole,Psychic,5,80,—
+Water Shuriken*,Water,20,15,100%
+Mystical Fire,Fire,10,75*,100%
+Spiky Shield,Grass,10,—,—
+Aromatic Mist,Fairy,20,—,—
+Eerie Impulse,Electric,15,—,100%
+Venom Drench,Poison,20,—,100%
+Powder,Bug,20,—,100%
+Geomancy,Fairy,10,—,—
+Magnetic Flux,Electric,20,—,—
+Happy Hour,Normal,30,—,—
+Electric Terrain,Electric,10,—,—
+Dazzling Gleam,Fairy,10,80,100%
+Celebrate,Normal,40,—,—
+Hold Hands,Normal,40,—,—
+Baby-Doll Eyes,Fairy,30,—,100%
+Nuzzle,Electric,20,20,100%
+Hold Back,Normal,40,40,100%
+Infestation,Bug,20,20,100%
+Power-Up Punch,Fighting,20,40,100%
+Oblivion Wing,Flying,10,80,100%
+Thousand Arrows,Ground,10,90,100%
+Thousand Waves,Ground,10,90,100%
+Land's Wrath,Ground,10,90,100%
+Light of Ruin,Fairy,5,140,90%
+Origin Pulse,Water,10,110,85%
+Precipice Blades,Ground,10,120,85%
+Dragon Ascent,Flying,5,120,100%
+Hyperspace Fury,Dark,5,100,—
+Breakneck Blitz,Normal,1,—,—
+Breakneck Blitz,Normal,1,—,—
+All-Out Pummeling,Fighting,1,—,—
+All-Out Pummeling,Fighting,1,—,—
+Supersonic Skystrike,Flying,1,—,—
+Supersonic Skystrike,Flying,1,—,—
+Acid Downpour,Poison,1,—,—
+Acid Downpour,Poison,1,—,—
+Tectonic Rage,Ground,1,—,—
+Tectonic Rage,Ground,1,—,—
+Continental Crush,Rock,1,—,—
+Continental Crush,Rock,1,—,—
+Savage Spin-Out,Bug,1,—,—
+Savage Spin-Out,Bug,1,—,—
+Never-Ending Nightmare,Ghost,1,—,—
+Never-Ending Nightmare,Ghost,1,—,—
+Corkscrew Crash,Steel,1,—,—
+Corkscrew Crash,Steel,1,—,—
+Inferno Overdrive,Fire,1,—,—
+Inferno Overdrive,Fire,1,—,—
+Hydro Vortex,Water,1,—,—
+Hydro Vortex,Water,1,—,—
+Bloom Doom,Grass,1,—,—
+Bloom Doom,Grass,1,—,—
+Gigavolt Havoc,Electric,1,—,—
+Gigavolt Havoc,Electric,1,—,—
+Shattered Psyche,Psychic,1,—,—
+Shattered Psyche,Psychic,1,—,—
+Subzero Slammer,Ice,1,—,—
+Subzero Slammer,Ice,1,—,—
+Devastating Drake,Dragon,1,—,—
+Devastating Drake,Dragon,1,—,—
+Black Hole Eclipse,Dark,1,—,—
+Black Hole Eclipse,Dark,1,—,—
+Twinkle Tackle,Fairy,1,—,—
+Twinkle Tackle,Fairy,1,—,—
+Catastropika,Electric,1,210,—
+Shore Up,Ground,10,—,—
+First Impression,Bug,10,90,100%
+Baneful Bunker,Poison,10,—,—
+Spirit Shackle,Ghost,10,80,100%
+Darkest Lariat,Dark,10,85,100%
+Sparkling Aria,Water,10,90,100%
+Ice Hammer,Ice,10,100,90%
+Floral Healing,Fairy,10,—,—
+High Horsepower,Ground,10,95,95%
+Strength Sap,Grass,10,—,100%
+Solar Blade,Grass,10,125,100%
+Leafage,Grass,40,40,100%
+Spotlight,Normal,15,—,—
+Toxic Thread,Poison,20,—,100%
+Laser Focus,Normal,30,—,—
+Gear Up,Steel,20,—,—
+Throat Chop,Dark,15,80,100%
+Pollen Puff,Bug,15,90,100%
+Anchor Shot,Steel,20,80,100%
+Psychic Terrain,Psychic,10,—,—
+Lunge,Bug,15,80,100%
+Fire Lash,Fire,15,80,100%
+Power Trip,Dark,10,20,100%
+Burn Up,Fire,5,130,100%
+Speed Swap,Psychic,10,—,—
+Smart Strike,Steel,10,70,—
+Purify,Poison,20,—,—
+Revelation Dance,Normal,15,90,100%
+Core Enforcer,Dragon,10,100,100%
+Trop Kick,Grass,15,70,100%
+Instruct,Psychic,15,—,—
+Beak Blast,Flying,15,100,100%
+Clanging Scales,Dragon,5,110,100%
+Dragon Hammer,Dragon,15,90,100%
+Brutal Swing,Dark,20,60,100%
+Aurora Veil,Ice,20,—,—
+Sinister Arrow Raid,Ghost,1,180,—
+Malicious Moonsault,Dark,1,180,—
+Oceanic Operetta,Water,1,195,—
+Guardian of Alola,Fairy,1,—,—
+Soul-Stealing 7-Star Strike,Ghost,1,195,—
+Stoked Sparksurfer,Electric,1,175,—
+Pulverizing Pancake,Normal,1,210,—
+Extreme Evoboost,Normal,1,—,—
+Genesis Supernova,Psychic,1,185,—
+Shell Trap,Fire,5,150,100%
+Fleur Cannon,Fairy,5,130,90%
+Psychic Fangs,Psychic,10,85,100%
+Stomping Tantrum,Ground,10,75,100%
+Shadow Bone,Ghost,10,85,100%
+Accelerock,Rock,20,40,100%
+Liquidation,Water,10,85,100%
+Prismatic Laser,Psychic,10,160,100%
+Spectral Thief,Ghost,10,90,100%
+Sunsteel Strike,Steel,5,100,100%
+Moongeist Beam,Ghost,5,100,100%
+Tearful Look,Normal,20,—,—
+Zing Zap,Electric,10,80,100%
+Nature's Madness,Fairy,10,—,90%
+Multi-Attack,Normal,10,120*,100%
+"10,000,000 Volt Thunderbolt",Electric,1,195,—
+Mind Blown,Fire,5,150,100%
+Plasma Fists,Electric,15,100,100%
+Photon Geyser,Psychic,5,100,100%
+Light That Burns the Sky,Psychic,1,200,—
+Searing Sunraze Smash,Steel,1,200,—
+Menacing Moonraze Maelstrom,Ghost,1,200,—
+Let's Snuggle Forever,Fairy,1,190,—
+Splintered Stormshards,Rock,1,190,—
+Clangorous Soulblaze,Dragon,1,185,—
+Zippy Zap,Electric,15*,50*,100%
+Splishy Splash,Water,15,90,100%
+Floaty Fall,Flying,15,90,95%
+Pika Papow,Electric,20,—,—
+Bouncy Bubble,Water,15*,90*,100%
+Buzzy Buzz,Electric,15*,90*,100%
+Sizzly Slide,Fire,15*,90*,100%
+Glitzy Glow,Psychic,15,90*,100%*
+Baddy Bad,Dark,15,90*,100%*
+Sappy Seed,Grass,15*,90*,100%*
+Freezy Frost,Ice,15*,90*,100%*
+Sparkly Swirl,Fairy,15*,90*,100%*
+Veevee Volley,Normal,20,—,—
+Double Iron Bash,Steel,5,60,100%
+Max Guard,Normal,10,—,—
+Dynamax Cannon,Dragon,5,100,100%
+Snipe Shot,Water,15,80,100%
+Jaw Lock,Dark,10,80,100%
+Stuff Cheeks,Normal,10,—,—
+No Retreat,Fighting,5,—,—
+Tar Shot,Rock,15,—,100%
+Magic Powder,Psychic,20,—,100%
+Dragon Darts,Dragon,10,50,100%
+Teatime,Normal,10,—,—
+Octolock,Fighting,15,—,100%
+Bolt Beak,Electric,10,85,100%
+Fishious Rend,Water,10,85,100%
+Court Change,Normal,10,—,100%
+Max Flare,Fire,10,—,—
+Max Flutterby,Bug,10,—,—
+Max Lightning,Electric,10,—,—
+Max Strike,Normal,10,—,—
+Max Knuckle,Fighting,10,—,—
+Max Phantasm,Ghost,10,—,—
+Max Hailstorm,Ice,10,—,—
+Max Ooze,Poison,10,—,—
+Max Geyser,Water,10,—,—
+Max Airstream,Flying,10,—,—
+Max Starfall,Fairy,10,—,—
+Max Wyrmwind,Dragon,10,—,—
+Max Mindstorm,Psychic,10,—,—
+Max Rockfall,Rock,10,—,—
+Max Quake,Ground,10,—,—
+Max Darkness,Dark,10,—,—
+Max Overgrowth,Grass,10,—,—
+Max Steelspike,Steel,10,—,—
+Clangorous Soul,Dragon,5,—,100%
+Body Press,Fighting,10,80,100%
+Decorate,Fairy,15,—,—
+Drum Beating,Grass,10,80,100%
+Snap Trap,Grass,15,35,100%
+Pyro Ball,Fire,5,120,90%
+Behemoth Blade,Steel,5,100,100%
+Behemoth Bash,Steel,5,100,100%
+Aura Wheel,Electric,10,110,100%
+Breaking Swipe,Dragon,15,60,100%
+Branch Poke,Grass,40,40,100%
+Overdrive,Electric,10,80,100%
+Apple Acid,Grass,10,80,100%
+Grav Apple,Grass,10,80,100%
+Spirit Break,Fairy,15,75,100%
+Strange Steam,Fairy,10,90,95%
+Life Dew,Water,10,—,—
+Obstruct,Dark,10,—,100%
+False Surrender,Dark,10,80,—
+Meteor Assault,Fighting,5,150,100%
+Eternabeam,Dragon,5,160,90%
+Steel Beam,Steel,5,140,95%
