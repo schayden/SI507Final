@@ -12,7 +12,7 @@ url = 'https://www.serebii.net/pokedex-sm/001.shtml'
 import csv
 
 count = 1
-with open("final_test.csv", "w+", encoding = "utf-8") as f:
+with open("pokemon_list.csv", "w+", encoding = "utf-8") as f:
     csv_content = csv.writer(f, delimiter = ',')
     csv_content.writerow(['id_number', 'name', 'type_1', 'type_2', 'alternative_types','stat_total', 'HP', 'Attack', 'Defense', 'Special Attack', 'Special Defense', 'Speed'])
 

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF8"/>
+    <title>Pokemon Browser: Results</title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Here are your results!</h1>
+    {%if table_select == 'pokemon' %}
+    <table>
+        
+        <tr>
+            <th>ID Number</th>
+            <th>Name</th>
+            <th>Type 1</th>
+            <th>Type 2</th>
+            <th>Alternative Type</th>
+            <th>Base Stat Total</th>
+            <th>HP</th>
+            <th>Attack</th>
+            <th>Defense</th>
+            <th>Special Attack</th>
+            <th>Special Defense</th>
+            <th>Speed</th>
+        </tr>
+        {% for row in results %}
+        <tr>
+            <td>{{row[0]}}</td>
+            <td>{{row[1]}}</td>
+            <td>{{row[2]}}</td>
+            <td>{{row[3]}}</td>
+            <td>{{row[4]}}</td>
+            <td>{{row[5]}}</td>
+            <td>{{row[6]}}</td>
+            <td>{{row[7]}}</td>
+            <td>{{row[8]}}</td>
+            <td>{{row[9]}}</td>
+            <td>{{row[10]}}</td>
+            <td>{{row[11]}}</td>
+        </tr>
+        {% endfor %}
+
+    </table>
+    {%else%}
+    <table>
+        
+        <tr>
+            <th>Move Name</th>
+            <th>Type</th>
+            <th>PP</th>
+            <th>Power</th>
+            <th>Accuracy</th>
+        </tr>
+        {% for row in results %}
+        <tr>
+            <td>{{row[0]}}</td>
+            <td>{{row[1]}}</td>
+            <td>{{row[2]}}</td>
+            <td>{{row[3]}}</td>
+            <td>{{row[4]}}</td>
+        </tr>
+        {% endfor %}
+
+    </table>
+    {%endif%}
+
+ 
+</body>
+</html>

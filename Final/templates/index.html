@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF8"/>
+    <title>Pokemon Search Home</title>
+</head>
+<body>
+    <h1>Welcome to the Pokemon Browser!</h1>
+
+    <form action='/results' method='POST'>
+    <h2>Search for an Individual Pokemon</h2>
+    <p>Select whether to search for a Pokemon or a Move: <br/>
+        <input type = 'radio' name = table_select
+            value = "pokemon" checked = 'checked'/> Pokemon <br/>
+        <input type = 'radio' name = table_select
+            value = "move" /> Attacks <br/>
+
+    </p>
+    <p>
+        Search for a Pokemon or Move by name: <br/>
+        <input name ="name" type="text"/>
+    </p>
+    <p>
+        Search for a Pokemon by number (1-890): <br/>
+        <input name = 'num' type = 'number'/>
+    </p>
+    <h2>OR  <br/>
+        <br/>
+        Search for Pokemon or Move by type</h2>
+    <p>
+    Sort Pokemon by Stat: <br/>
+        <input type='radio' name='sort' 
+                value='stat_total'checked ='checked'/> Base Stat stat_total <br/>
+        <input type='radio' name='sort' 
+                value='HP'/> HP <br/>
+        <input type='radio' name='sort' 
+                value='Attack'/> Attack <br>
+        <input type='radio' name='sort' 
+                value='Defense'/> Defense <br/>
+        <input type='radio' name='sort' 
+                value='Special_Attack'/> Special Attack <br/>
+        <input type='radio' name='sort' 
+                value='Special_Defense'/> Special Defense <br/>
+        <input type='radio' name='sort' 
+                value='Speed'/> Speed <br/>
+    Sort Move by Stat: </br>
+        <input type='radio' name='sort' 
+                value='PP'/> PP <br/>
+        <input type='radio' name='sort' 
+                value='Power'/> Power <br/>
+        <input type='radio' name='sort' 
+                value='Accuracy'/> Accuracy <br/>
+    </p>
+
+    <p>
+    Sort direction: <br/>
+        <input type='radio' name='dir'
+            value='desc' checked='checked'/>High to Low<br/>
+        <input type='radio' name='dir'
+            value='asc'/>Low to High<br/>
+    </p>
+    <p>
+        Filter by  type: <br/>
+            <select name='filter_type'>
+                <option value='All'>All types</option>
+                <option value='Normal'>Normal</option>
+                <option value='Fire'>Fire</option>
+                <option value='Fighting'>Fighting</option>
+                <option value='Flying'>Flying</option>
+                <option value='Water'>Water</option>
+                <option value='Grass'>Grass</option>
+                <option value='Poison'>Poison</option>
+                <option value='Electric'>Electric</option>
+                <option value='Ground'>Ground</option>
+                <option value='Psychic'>Psychic</option>
+                <option value='Rock'>Rock</option>
+                <option value='Ice'>Ice</option>
+                <option value='Bug'>Bug</option>
+                <option value='Dragon'>Dragon</option>
+                <option value='Ghost'>Ghost</option>
+                <option value='Dark'>Dark</option>
+                <option value='Steel'>Steel</option>
+                <option value='Fairy'>Fairy</option>
+            </select>
+
+        </p>
+        <br/>
+    <p> How many results would you like returned?
+        <input name='limit' type='number'/>
+    </p>
+    <br/>
+    <input type='submit' value='Get results'/>
+
+    </form>
+
+</body>
+</html>
+

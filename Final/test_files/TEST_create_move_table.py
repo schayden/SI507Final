@@ -7,7 +7,6 @@ cursor = conn.cursor()
 cursor.execute('DROP TABLE IF EXISTS moves')
 #print('bbbbbb')
 cursor.execute('PRAGMA foreign_keys = ON')
-cursor.execute('PRAGMA encoding="UTF-8"')
 
 cursor.execute('''
 CREATE TABLE "moves"(
@@ -17,7 +16,7 @@ CREATE TABLE "moves"(
     "Power" INTEGER,
     "Accuracy" VarChar,
     FOREIGN KEY (move_type)
-        REFERENCES types_table (id)
+        REFERENCES types_table (type_1_id)
     )
     ''')
 #print('ccccc')
@@ -27,13 +26,8 @@ with open('moves.csv') as csv_file:
         print(row)
         if len(row) > 1:
             move=row[0]
-            if " " in move:
-                move = move.replace(" ","_")
-                move = move.capitalize()
-            print(move)
             #print(type(move))
             move_type=row[1]
-            print(move_type)
             type_id = 0
             if move_type =="Grass":
                 type_id = 2
@@ -73,15 +67,9 @@ with open('moves.csv') as csv_file:
                 type_id = 19
             #print(type(move_type))
             PP=row[2]
-            if PP == "-":
-                PP = 0
             #type(type_1)
             Power=row[3]
-            if Power == "-":
-                Power = 0
             Accuracy=row[4]
-            if Accuracy == "-":
-                Accuracy = 0
             cursor.execute('''INSERT INTO moves(move, move_type,PP,Power,Accuracy)
                 VALUES(?,?,?,?,?)''',(move,type_id,PP,Power,Accuracy))
             #

@@ -4,9 +4,9 @@ import csv
 conn = sqlite3.connect('pokemon.sqlite')
 cursor = conn.cursor()
 
-cursor.execute('DROP TABLE IF EXISTS pokemon')
+cursor.execute('DROP TABLE IF EXISTS pokemon_table')
 cursor.execute('''
-CREATE TABLE "pokemon"(
+CREATE TABLE "pokemon_table"(
     "id_number" INTEGER,
     "name" VarChar,
     "type_1" VarChar,
@@ -22,7 +22,7 @@ CREATE TABLE "pokemon"(
     )
     ''')
 
-with open('final_test.csv') as csv_file:
+with open('pokemon_table.csv') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     for row in csv_reader:
         print(row)
@@ -45,7 +45,7 @@ with open('final_test.csv') as csv_file:
             Special_Attack=row[9]
             Special_Defense=row[10]
             Speed=row[11]
-            cursor.execute('''INSERT INTO pokemon(id_number, name,type_1,type_2,Alternative_type,stat_total,HP,Attack,Defense,Special_Attack,Special_Defense,Speed)
+            cursor.execute('''INSERT INTO pokemon_table(id_number, name,type_1,type_2,Alternative_type,stat_total,HP,Attack,Defense,Special_Attack,Special_Defense,Speed)
                 VALUES(?,?,?,?,?,?,?,?,?,?,?,?)''',(id_number, name,type_1,type_2,Alternative_type,stat_total,HP,Attack,Defense,Special_Attack,Special_Defense,Speed))
             #
             conn.commit()
