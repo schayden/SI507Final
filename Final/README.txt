@@ -4,6 +4,10 @@ schayden@umich.edu
 
 This project fulfills the final requirement for SI507 W2020 at the University of Michigan
 
+Unused files found in test_files. These files were deliberately not hidden by a .gitignore
+so as to preserve their provenance, but were hidden in an unused directory so as not to
+interfere with the actual project.
+
 Required packages:
 
 requests
