@@ -17,8 +17,6 @@ with open('pokemon_list.csv') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     count = 1
     t_list = []
-    t2_list = []
-    t3_list = []
     for row in csv_reader:
         if len(row) > 1:
             print(row)
